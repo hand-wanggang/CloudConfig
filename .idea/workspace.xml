@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f069f5-8fb0-42c6-af84-ce89a73806fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/eclient-dev.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/eclient-dev.yml" afterPath="$PROJECT_DIR$/dev/config-client.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="eclient-dev.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/eclient-dev.yml">
+      <file leaf-file-name="config-client.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/config-client.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -63,7 +63,7 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1320" />
@@ -598,15 +598,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505900748258</updated>
-      <workItem from="1505900749795" duration="158000" />
+      <workItem from="1505900749795" duration="3645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158000" />
+    <option name="totallyTimeSpent" value="3645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -658,10 +658,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/eclient-dev.yml">
+    <entry file="file://$PROJECT_DIR$/dev/config-client.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="9" />
           <folding />
         </state>
       </provider>
